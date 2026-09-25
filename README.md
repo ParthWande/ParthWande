@@ -15,5 +15,20 @@ I am currently completing my masters in Computer Science from RPTU Kaiserslauter
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 🏆 Achievements:
 
+- **1st Runners-Up (Open Innovation Track)** — [Syrus Hackathon 2025](https://lnkd.in/p/gU2gAwAT) *(CodeCell & Tinkerers, VESIT)*  
+  Built **Friendly Neighbourhood App**, a gamified, crowdsourced civic-tech platform turning municipal issues into community-solvable bounties. Implemented real-time geospatial incident tracking, AI-powered lost-and-found matching, route-optimized SmartPath navigation, and automated verification pipelines leveraging Google News and Twitter APIs for community report validation, built with Flutter and Flask.
+
+- **3rd Runners-Up** — [Mastek's Deep Blue Hackathon](https://lnkd.in/p/gcrtSG6X)  
+  Engineered a computer vision platform estimating physical body dimensions (height, weight, body proportions) and object measurements directly from a single selfie without reference objects. Integrated **MediaPipe** facial landmark scaling, **MiDaS** monocular depth estimation, **CNN/ResNet** regression architectures, and **YOLO11** object detection, served via a Flask backend and Flutter mobile client.
+
+- **Rank 245 / 75,000 Teams (Top 0.3%)** — [Amazon ML Challenge 2024](https://lnkd.in/p/g_DmyGpD)  
+  Engineered an end-to-end computer vision and NLP pipeline to extract and normalize entity values (weights, dimensions, volumes, electrical units) from product catalog images. Built an image preprocessing pipeline using OpenCV (Laplacian variance blur detection, Otsu binarization, morphological dilation) and EasyOCR for robust bounding box segmentation, paired with regex-driven NLP normalization routines to clean and standardize noisy OCR text outputs.
+
+- **2nd Place Winner** — [KNOWCODE 2.0 Hackathon](https://lnkd.in/p/gvvfkJqm) *(KJSIT School for Data Science)*  
+  Awarded 2nd place (₹25,000 cash prize) for **Yaadon Ki Baarat**, an AI companion ecosystem for Alzheimer's patients. Integrated **YOLO** for real-time everyday object detection, **DeepFace** for facial recognition of familiar family members, custom-cloned voice reminders, wearable health metric tracking, and gesture-activated SOS alerts built with Flutter, Flask, and Firebase.
+
+- **1st Runners-Up** — [Syrus 2024 Hackathon](https://lnkd.in/p/gEyZ2a2X) *(CodeCell & Tinker's, VESIT)*  
+  Developed an assistive healthcare platform for Alzheimer’s patients and caregivers featuring automated daily routine notifications and real-time GPS boundary alerts notifying family members upon exit from safe perimeter zones.
+
 - **1st Place Winner** — [KnowCode 2024 Hackathon](https://www.linkedin.com/feed/update/urn:li:share:7157932435047882754/) *(KJ Somaiya)*  
   Built **Medureka**, an accessible healthcare logistics platform addressing rural medicine delivery challenges where internet access and smartphones are scarce. Integrated an IVR (Interactive Voice Response) system with UPI 123Pay, allowing users to place orders and complete secure transactions entirely over a standard phone call without internet connectivity.
