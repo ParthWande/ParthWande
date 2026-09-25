@@ -13,3 +13,7 @@ I am currently completing my masters in Computer Science from RPTU Kaiserslauter
 [![](https://komarev.com/ghpvc/?username=ParthWande&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🏆 Achievements:
+
+- **1st Place Winner** — [KnowCode 2024 Hackathon](https://www.linkedin.com/feed/update/urn:li:share:7157932435047882754/) *(KJ Somaiya)*  
+  Built **Medureka**, an accessible healthcare logistics platform addressing rural medicine delivery challenges where internet access and smartphones are scarce. Integrated an IVR (Interactive Voice Response) system with UPI 123Pay, allowing users to place orders and complete secure transactions entirely over a standard phone call without internet connectivity.
